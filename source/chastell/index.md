@@ -1,0 +1,15 @@
+---
+layout: page
+title: Chastell
+---
+> Chastell and I were hunting in the woods outside Ghent. That was in my youth when the English ruled nearly the entire coast. Chastell fell from his horse and was so badly injured that no one would have predicted he would survive. We came upon a peasant at the edge of the woods and lay Chastell on some haulms. He cried for water, and the peasant’s boy ran to the well. I then said, ‘Chastell, my old friend, you need a confessor. I’ll send the peasant for one of the Jacobin fathers.’
+>
+> ‘Don’t do that,’ said Chastell, forcing a smile. ‘I don’t want to make confession…’ He must have seen by my eyes that I thought him mad, because he went on to say, ‘I never thought I would die on your company, far from my older, wiser friends. But there’s no escaping fate. I don’t want any cleric here. You know me, dear boy, and so you know I always scoffed at Christian practice and cared nothing for God’s commandments. Not that I am an evil man. Not at all! But I don’t believe in God. I never went to church, I never bowed low to the altar, never confessed my sins. I don’t believe in any of that…’
+>
+> I froze with horror. To tell the truth, Chastell’s atheism was public knowledge at the court of Ghent, and more than one great lord followed his example. Prince Phillip himself said that Chastell was a most honorable and most noble man, and thus God lost much in such a man’s refusal to believe in Him. But all that was on this shore, and now Chastell was floating swiftly toward that other shore where there is no longer any place for pranks and poses. Consequently, I saw no reason to delay; a confessor should be called at once. Be he didn’t let go of my hand.
+>
+> ‘Pay close heed to what I’m telling you, boy!’ he whispered with difficulty. ‘My heart has not been filled with atheism, but with the certainty that I will turn to dust, fall into a boundless darkness where it is vain to seek beings of any sort. And so even now, when my mind is shaken by the strange idea that maybe I will yet find something there, I wish to persevere in my faith. If there’s no God, what do I need a Jacobin father for? And if there is a God, what would He think of me? That I fell on my knees before Him, out of fear, at the last moment? If God exists, He scrons fools and the fainthearted. And that is why I will not go out and meet Him halfway!’ […]
+>
+> In the end, what is the truth of valor and discretion? If God has no hand in it, then they must be human things. Chastell used to say to me, ‘Be the master of your own fate!’ Oh, I know, that’s all that counts, but now I can say that I have never been satisfied on that score. Sometimes I was the master of my fate, and sometimes I wasn’t. At times I was tormented by the desire to cry out, regardless of what might happen, and yet I held my tongue. At other times, I was seized by some destructive force and ready to lay my head on the chopping block if only to save something that I could not even name. Gentlemen, isn’t the point to please oneself, even more than to please God?
+>
+> Andrzej Szczypiorski, <cite>A Mass for Arras</cite>
