@@ -8,7 +8,7 @@ So, yes, there’s no denying this anymore – given a 1½ meter[^1] long ethern
 
 As for that fifth-tab thing: now as I think of it, I do have [NADD](http://randsinrepose.com/archives/2003/07/10/nadd.html 'Nerd Attention Deficiency Disorder'), if not some kind of a super-NADD. Rands’s example consists of mere seven different applications plus three tabs in Safari; here it’s six terminals, seven other apps, an eight-tabbed Firebird, and anybody moving my icons by a milimeter[^2] risks being strangled with the aforementioned cable.
 
-Also, [this](hovercraft/preaching-fucker.png 'that sponsored link is a killer, too').
+Also, [this](/hovercraft/preaching-fucker.png 'that sponsored link is a killer, too').
 
 [^1]: for our non-metric passengers: about five feet
 [^2]: not even a sixteenth of an inch

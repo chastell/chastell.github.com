@@ -12,4 +12,4 @@ And here I was, sitting and thinking it’s going to be yet another placeholder 
 
 What’s even more interesting, though, is [the BBC’s version](http://news.bbc.co.uk/1/hi/england/london/4195339.stm 'Tsunami fund ‘hacking’ is probed') of the story. ‘I’ve noticed that the press tends to be quite accurate, except when they’re writing on a subject I know something about.’ Indeed.
 
-Meantime, in other parts of the world, your captain made himself [a photolog](1-125 '1/125') and somebody else made some fantastic [Hiëronymus Bosch action figures](http://3d-mouseion.com/engels/bosch_eng.htm 'via Boing Boing, as well'). Do enjoy.
+Meantime, in other parts of the world, your captain made himself [a photolog](/1-125 '1/125') and somebody else made some fantastic [Hiëronymus Bosch action figures](http://3d-mouseion.com/engels/bosch_eng.htm 'via Boing Boing, as well'). Do enjoy.
