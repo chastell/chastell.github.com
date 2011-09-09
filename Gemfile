@@ -11,6 +11,7 @@ group :development do
   gem 'compass', '>= 0.11'
   gem 'rubypants'
   gem 'rb-fsevent'
+  gem 'rb-inotify'
   gem 'stringex'
 end
 
