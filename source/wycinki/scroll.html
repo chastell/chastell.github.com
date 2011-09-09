@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+    <meta http-equiv="Content-Language" content="pl" />
+    <meta name="Author" content="Shot" />
+    <script type="text/javascript">
+
+    function go() {
+        var lorem = document.getElementById('lorem');
+        var top = lorem.offsetTop;
+        lorem.style.top = top + 1 + 'px';
+        setTimeout('go()', 50);
+    }
+
+    </script>
+    <style type="text/css">
+
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    #lorem {
+        border: 1px solid black;
+        left: 100px;
+        position: absolute;
+        top: 100px;
+        width: 300px;
+    }
+
+
+    </style>
+    <title>scroll</title>
+</head>
+<body>
+<p id="lorem">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur lobortis ornare tortor. Donec condimentum, felis a consequat tempus, felis wisi sollicitudin libero, eu viverra velit purus ut velit. Integer nunc libero, ultricies id, viverra sed, cursus in, turpis. Donec vehicula nunc sed libero. Aenean felis. Phasellus pede. Pellentesque vitae sapien. Donec et lectus. Ut diam augue, dignissim nec, eleifend a, aliquam eu, risus. Vivamus id erat at neque consequat tristique. Ut vel leo non nulla fermentum suscipit. Vestibulum eros ipsum, egestas sit amet, semper a, lacinia id, ipsum. Fusce est sapien, aliquet non, volutpat eget, laoreet ut, felis. Nunc ut dolor in sapien congue ultrices. Suspendisse risus lectus, fermentum et, posuere eu, scelerisque in, quam. Donec non enim at pede dictum consequat. Pellentesque hendrerit adipiscing nibh. Aliquam sem.</p>
+<p><a href="#" onclick="go(); return false;">go</a></p>
+</body>
+</html>
