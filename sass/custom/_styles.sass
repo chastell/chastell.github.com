@@ -6,6 +6,14 @@ a, a:visited
   &:hover
     text-decoration: underline
 
+blockquote
+  font-style: normal
+  cite:before
+    content: ''
+    padding: 0
+  p:last-child
+    text-align: right
+
 body > footer, body > header, nav[role=navigation] a
   @extend .serif
   text-align: center
