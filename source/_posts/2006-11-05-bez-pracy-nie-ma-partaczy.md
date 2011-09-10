@@ -119,7 +119,7 @@ Ania
 ---
 
 opi
-: <blockquote><p>>> Poprosiłbym o zawieszenie na pierwszej stronie listu<br />>> od Prezydenta Kropiwnickiego z widoczną informacją:</p><p>> A skąd mam niby ten list wziąć?</p><p>Bardzo dobre pytanie!</p><p></p></blockquote>
+: <blockquote><blockquote><blockquote><p>Poprosiłbym o zawieszenie na pierwszej stronie listu od Prezydenta Kropiwnickiego z widoczną informacją:</p><p></p></blockquote><p>A skąd mam niby ten list wziąć?</p><p></p></blockquote><p>Bardzo dobre pytanie!</p><p></p></blockquote>
 : mój INBOX jest jak zoo
 
 ---
