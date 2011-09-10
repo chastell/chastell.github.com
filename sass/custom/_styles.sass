@@ -8,9 +8,12 @@ a
 blockquote
   font-size: inherit
   font-style: normal
-  cite:before
-    content: ''
-    padding: 0
+  cite
+    &:before
+      content: ''
+      padding: 0
+    a
+      color: inherit !important
   h1
     font-size: 1.5em
     font-variant: small-caps
@@ -53,6 +56,9 @@ time span
 
 .chastell-net, .entry-title
   font-family: 'IM Fell English SC', inherit
+
+.cursor
+  text-decoration: blink
 
 .deathspeak
   font-variant: small-caps
