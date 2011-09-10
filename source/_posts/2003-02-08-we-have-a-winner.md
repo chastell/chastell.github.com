@@ -1,6 +1,7 @@
 ---
 date: 2003-02-08 20:52:21 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: We have a winner
 ---
 

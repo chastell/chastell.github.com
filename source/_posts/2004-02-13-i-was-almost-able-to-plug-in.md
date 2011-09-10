@@ -1,6 +1,7 @@
 ---
 date: 2004-02-13 01:39:14 +0100
 layout: hovercraft
+tags: [en, hovercraft]
 title: I was almost able to plug in, turn on and cop out
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2003-10-03 13:23:20 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: No wreszcie
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2008-01-21 15:41:31 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: A ja stoję dzieciak teraz z otwartą gębą…
 ---
 

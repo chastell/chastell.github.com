@@ -1,6 +1,7 @@
 ---
 date: 2003-10-18 14:21:54 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Of crows and men
 ---
 

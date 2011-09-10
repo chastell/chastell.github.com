@@ -1,6 +1,7 @@
 ---
 date: 2004-08-21 23:56:35 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Bóg nie gra w kości prehistorycznych gadów; górale oburzeni
 ---
 

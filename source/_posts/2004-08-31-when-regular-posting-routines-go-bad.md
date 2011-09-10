@@ -1,6 +1,7 @@
 ---
 date: 2004-08-31 21:55:30 +0200
 layout: hovercraft
+tags: [en, hovercraft]
 title: When regular posting routines go bad
 ---
 

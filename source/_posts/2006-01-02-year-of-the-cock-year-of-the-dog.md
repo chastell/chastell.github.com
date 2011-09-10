@@ -1,6 +1,7 @@
 ---
 date: 2006-01-02 01:59:05 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Year of the Cock → Year of the Dog
 ---
 

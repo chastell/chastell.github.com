@@ -1,6 +1,7 @@
 ---
 date: 2004-01-03 02:30:29 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Żółwie zwierzęta delikatne
 ---
 

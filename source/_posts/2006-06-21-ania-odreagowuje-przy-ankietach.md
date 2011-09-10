@@ -1,6 +1,7 @@
 ---
 date: 2006-06-21 17:42:04 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Ania odreagowuje przy ankietach
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2004-09-07 10:15:00 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: (A lato wciąż jest piękne tego roku)
 ---
 

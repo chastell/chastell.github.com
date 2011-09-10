@@ -1,6 +1,7 @@
 ---
 date: 2003-01-03 01:32:29 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Metro-Golden-Bajer
 ---
 

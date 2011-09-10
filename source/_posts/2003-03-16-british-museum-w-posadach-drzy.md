@@ -1,6 +1,7 @@
 ---
 date: 2003-03-16 00:42:00 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Virginia wyglądała na jedną z tych dziewcząt, które bez spiralki antykoncepcyjnej czują się jak bez pantofli
 ---
 

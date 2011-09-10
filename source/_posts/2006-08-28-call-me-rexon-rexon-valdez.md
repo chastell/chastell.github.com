@@ -1,6 +1,7 @@
 ---
 date: 2006-08-28 22:11:24 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Call me Rexon, Rexon Valdez
 ---
 

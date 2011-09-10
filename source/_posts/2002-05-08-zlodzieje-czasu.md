@@ -1,6 +1,7 @@
 ---
 date: 2002-05-08 22:33:39 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Złodzieje czasu
 ---
 

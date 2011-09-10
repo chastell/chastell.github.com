@@ -1,6 +1,7 @@
 ---
 date: 2007-02-03 01:13:32 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Tunnel vision from the outsider’s screen(1)
 ---
 

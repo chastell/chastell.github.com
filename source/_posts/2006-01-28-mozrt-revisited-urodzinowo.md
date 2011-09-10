@@ -1,6 +1,7 @@
 ---
 date: 2006-01-28 15:41:42 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: MOZRT. Revisited. Urodzinowo.
 ---
 

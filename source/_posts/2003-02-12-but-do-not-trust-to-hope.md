@@ -1,6 +1,7 @@
 ---
 date: 2003-02-12 00:20:26 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: …but do not trust to hope – it has forsaken these lands
 ---
 

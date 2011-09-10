@@ -1,6 +1,7 @@
 ---
 date: 2006-09-21 10:20:17 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: (Dlatego wznieśmy ręce, podajmy sobie dłonie.)
 ---
 

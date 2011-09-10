@@ -1,6 +1,7 @@
 ---
 date: 2002-05-27 01:18:31 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Rafał Skibiński, mój ssskarbie…
 ---
 

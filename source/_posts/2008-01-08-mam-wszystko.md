@@ -1,6 +1,7 @@
 ---
 date: 2008-01-08 13:29:26 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Mam wszystko czego może chcieć uczciwy człowiek
 ---
 

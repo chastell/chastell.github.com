@@ -1,6 +1,7 @@
 ---
 date: 2004-01-14 19:18:32 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: The right magic
 ---
 

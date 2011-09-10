@@ -1,6 +1,7 @@
 ---
 date: 2007-04-01 09:02:52 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Takie czasy
 ---
 

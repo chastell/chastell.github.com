@@ -1,6 +1,7 @@
 ---
 date: 2002-12-26 21:29:19 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Myszka ogląda Odyseję
 ---
 

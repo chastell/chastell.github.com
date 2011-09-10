@@ -1,6 +1,7 @@
 ---
 date: 2003-06-19 03:51:09 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Dużo Mieliśmy Radości
 ---
 

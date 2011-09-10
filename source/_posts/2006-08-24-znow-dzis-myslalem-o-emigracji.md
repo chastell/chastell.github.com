@@ -1,6 +1,7 @@
 ---
 date: 2006-08-24 11:18:12 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Znów dziś myślałem o emigracji (to jest melodia mojej generacji)
 ---
 

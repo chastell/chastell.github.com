@@ -1,6 +1,7 @@
 ---
 date: 2003-08-16 18:50:29 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Being Kris Kelvin
 ---
 

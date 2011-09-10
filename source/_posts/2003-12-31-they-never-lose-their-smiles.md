@@ -1,6 +1,7 @@
 ---
 date: 2003-12-31 19:42:14 +0100
 layout: hovercraft
+tags: [en, hovercraft]
 title: They never lose their smiles
 ---
 

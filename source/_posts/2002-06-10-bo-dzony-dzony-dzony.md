@@ -1,6 +1,7 @@
 ---
 date: 2002-06-10 21:19:29 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Bo Dżony, Dżony, Dżony…
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2005-06-16 18:50:06 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: 10.3.11. Some Special Cases Where the Collation Determination Is Tricky
 ---
 

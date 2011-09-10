@@ -1,6 +1,7 @@
 ---
 date: 2002-11-27 00:14:50 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Myszka-demaskator
 ---
 

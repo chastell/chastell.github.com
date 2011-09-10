@@ -1,6 +1,7 @@
 ---
 date: 2002-05-09 01:26:10 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: PAP, spam i Lech W.
 ---
 

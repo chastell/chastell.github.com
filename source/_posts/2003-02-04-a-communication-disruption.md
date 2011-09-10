@@ -1,6 +1,7 @@
 ---
 date: 2003-02-04 23:07:59 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: A communication disruption can mean only one thing… Invasion.
 ---
 

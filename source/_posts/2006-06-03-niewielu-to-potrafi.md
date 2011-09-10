@@ -1,6 +1,7 @@
 ---
 date: 2006-06-03 22:17:05 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: …niewielu to potrafi
 ---
 

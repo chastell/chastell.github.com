@@ -1,6 +1,7 @@
 ---
 date: 2003-07-08 23:06:43 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: I może bardzo wielu nie zrozumie tych słów…
 ---
 

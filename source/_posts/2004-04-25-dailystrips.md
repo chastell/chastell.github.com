@@ -1,6 +1,7 @@
 ---
 date: 2004-04-25 23:54:08 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Wullfamorgenthalera trzeba będzie dopisać
 ---
 

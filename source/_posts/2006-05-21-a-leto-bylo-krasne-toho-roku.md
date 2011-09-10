@@ -1,6 +1,7 @@
 ---
 date: 2006-05-21 23:19:52 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: A léto bylo krásné toho roku
 ---
 

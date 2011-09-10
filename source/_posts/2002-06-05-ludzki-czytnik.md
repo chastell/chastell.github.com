@@ -1,6 +1,7 @@
 ---
 date: 2002-06-05 14:46:12 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Ludzki czytnik
 ---
 

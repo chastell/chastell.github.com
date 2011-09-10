@@ -1,6 +1,7 @@
 ---
 date: 2003-02-18 01:20:08 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Mnożenie filozofów
 ---
 

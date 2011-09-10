@@ -1,6 +1,7 @@
 ---
 date: 2007-10-14 23:34:20 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Ta ostatnia niedziela
 ---
 

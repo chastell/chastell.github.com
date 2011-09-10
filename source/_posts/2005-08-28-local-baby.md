@@ -1,6 +1,7 @@
 ---
 date: 2005-08-28 18:54:50 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Local, baby
 ---
 

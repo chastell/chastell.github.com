@@ -1,6 +1,7 @@
 ---
 date: 2003-06-21 12:24:34 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Pewnie regexpami byłoby prościej
 ---
 

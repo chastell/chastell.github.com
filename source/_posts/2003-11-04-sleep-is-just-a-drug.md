@@ -1,6 +1,7 @@
 ---
 date: 2003-11-04 02:05:02 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Sleep is just a drug
 ---
 

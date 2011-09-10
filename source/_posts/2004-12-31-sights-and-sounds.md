@@ -1,6 +1,7 @@
 ---
 date: 2004-12-31 17:56:05 +0100
 layout: hovercraft
+tags: [en, hovercraft]
 title: Sights & Sounds
 ---
 

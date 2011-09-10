@@ -1,6 +1,7 @@
 ---
 date: 2004-02-23 11:50:58 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: What we need is a break from the old routine
 ---
 

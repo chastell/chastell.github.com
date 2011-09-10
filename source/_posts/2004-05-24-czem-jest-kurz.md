@@ -1,6 +1,7 @@
 ---
 date: 2004-05-24 07:20:10 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Alboż to się opłaci marnować czas na zastanawianiu się, czem jest kurz i na co się przyda?
 ---
 

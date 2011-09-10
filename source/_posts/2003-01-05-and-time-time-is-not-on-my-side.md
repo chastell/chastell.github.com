@@ -1,6 +1,7 @@
 ---
 date: 2003-01-05 23:04:31 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: And time, time is not on my side
 ---
 

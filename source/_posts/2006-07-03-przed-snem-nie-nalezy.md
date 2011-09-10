@@ -1,6 +1,7 @@
 ---
 date: 2006-07-03 04:21:27 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Przed snem nie należy też sprawdzać, czy Wesnoth 1.1.7 aby dobrze działa
 ---
 

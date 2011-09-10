@@ -1,6 +1,7 @@
 ---
 date: 2002-05-02 21:34:09 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Football australijski
 ---
 

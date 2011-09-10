@@ -1,6 +1,7 @@
 ---
 date: 2005-09-10 12:00:19 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Pewnie zwabili go jedzeniem
 ---
 

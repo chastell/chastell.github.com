@@ -1,6 +1,7 @@
 ---
 date: 2002-06-09 22:59:59 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: „Torsje koneksji”, dramat produkcji węgierskiej
 ---
 

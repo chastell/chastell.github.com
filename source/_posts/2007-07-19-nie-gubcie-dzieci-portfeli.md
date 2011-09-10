@@ -1,6 +1,7 @@
 ---
 date: 2007-07-19 09:36:49 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Nie gubcie, dzieci, portfeli
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2004-05-22 17:51:21 +0200
 layout: hovercraft
+tags: [en, hovercraft]
 title: ‘SONS OF FUCKING BITCH-ASS GODDAMNED COCK SUCKING GOAT FUCKERS!’, he elaborated.
 ---
 

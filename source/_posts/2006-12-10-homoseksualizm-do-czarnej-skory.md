@@ -1,6 +1,7 @@
 ---
 date: 2006-12-10 15:08:03 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Jak do tej czarnej skóry doszedł jeszcze homoseksualizm, to wielkiej różnicy w mojej sytuacji nie odczułem
 ---
 

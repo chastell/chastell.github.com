@@ -1,6 +1,8 @@
 ---
 date: 2004-01-08 17:39:22 +0100
 layout: hovercraft
+tags: [pl, wycinki]
+tags: [en, hovercraft]
 title: Look to the starboard
 ---
 

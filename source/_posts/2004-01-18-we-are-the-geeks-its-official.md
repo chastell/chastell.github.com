@@ -1,6 +1,7 @@
 ---
 date: 2004-01-18 00:47:21 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: We are the geeks, it’s official
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2003-06-22 15:16:59 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Policja niechybnie by nas spałowała
 ---
 

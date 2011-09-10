@@ -1,6 +1,7 @@
 ---
 date: 2007-12-07 10:03:25 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: 'Z tłumem szalał, piątkowy kod cud ten wyprawił – i wszyscy śpiewali go tak:'
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2004-01-26 17:35:49 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: 6. Play hide-and-seek in a cornfield.
 ---
 

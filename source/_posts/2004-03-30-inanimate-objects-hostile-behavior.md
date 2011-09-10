@@ -1,6 +1,7 @@
 ---
 date: 2004-03-30 12:47:54 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: inanimate objects, hostile behavior
 ---
 

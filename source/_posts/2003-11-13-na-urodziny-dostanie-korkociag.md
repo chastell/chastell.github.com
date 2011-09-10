@@ -1,6 +1,7 @@
 ---
 date: 2003-11-13 01:23:22 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Na urodziny dostanie korkociąg
 ---
 

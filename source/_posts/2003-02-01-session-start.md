@@ -1,6 +1,7 @@
 ---
 date: 2003-02-01 01:05:59 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: session_start()
 ---
 

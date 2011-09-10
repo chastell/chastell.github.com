@@ -1,6 +1,7 @@
 ---
 date: 2002-07-22 11:26:30 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Kino „Azyl” przedstawia
 ---
 

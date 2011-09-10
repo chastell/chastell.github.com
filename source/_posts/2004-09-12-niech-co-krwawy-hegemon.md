@@ -1,6 +1,7 @@
 ---
 date: 2004-09-12 18:34:02 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Niech co Krwawy Hegemon?
 ---
 

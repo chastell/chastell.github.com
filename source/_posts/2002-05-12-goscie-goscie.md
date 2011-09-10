@@ -1,6 +1,7 @@
 ---
 date: 2002-05-12 02:49:17 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Goście, goście
 ---
 

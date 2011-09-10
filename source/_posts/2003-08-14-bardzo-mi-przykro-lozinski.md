@@ -1,6 +1,7 @@
 ---
 date: 2003-08-14 21:31:36 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Bardzo mi przykro, Łoziński
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2002-07-29 01:02:35 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Are you not entertained?
 ---
 

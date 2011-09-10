@@ -1,6 +1,7 @@
 ---
 date: 2004-10-08 01:02:02 +0200
 layout: hovercraft
+tags: [en, hovercraft]
 title: Best birthday ever
 ---
 

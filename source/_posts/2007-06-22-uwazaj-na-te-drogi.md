@@ -1,6 +1,7 @@
 ---
 date: 2007-06-22 21:52:59 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: (Chcę Ci powiedzieć „uważaj na te drogi” ale nie mam odwagi)
 ---
 

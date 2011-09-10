@@ -1,6 +1,7 @@
 ---
 date: 2004-05-27 14:50:13 +0200
 layout: hovercraft
+tags: [en, hovercraft]
 title: Every OS sucks, this one just sucks less
 ---
 

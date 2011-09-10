@@ -1,6 +1,7 @@
 ---
 date: 2002-11-21 01:34:49 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Inkwizytorom dziękujemy
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2003-10-20 12:26:54 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: dmr się wdraża
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2004-04-09 00:18:50 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Polak potrafi
 ---
 

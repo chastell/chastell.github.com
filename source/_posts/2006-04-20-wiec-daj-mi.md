@@ -1,6 +1,7 @@
 ---
 date: 2006-04-20 22:27:53 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: (Więc daj mi, daj mi, daj mi, daj mi, daj mi boga policji i boga armii)
 ---
 

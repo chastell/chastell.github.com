@@ -1,6 +1,7 @@
 ---
 date: 2004-03-12 13:10:54 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Magic. Got it.
 ---
 

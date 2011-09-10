@@ -1,6 +1,7 @@
 ---
 date: 2007-11-27 22:33:53 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Necromancer can now be female when advanced from Dark Sorceress
 ---
 

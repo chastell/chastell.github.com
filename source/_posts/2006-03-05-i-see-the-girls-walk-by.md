@@ -1,6 +1,7 @@
 ---
 date: 2006-03-05 22:57:55 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: I see the girls walk by dressed in their summer clothes
 ---
 

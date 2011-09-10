@@ -1,6 +1,7 @@
 ---
 date: 2007-06-26 00:49:35 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: …and the people passin’ by stare in wild wonder
 ---
 

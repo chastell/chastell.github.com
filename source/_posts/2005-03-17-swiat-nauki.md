@@ -1,6 +1,7 @@
 ---
 date: 2005-03-17 00:04:19 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Świat nauki
 ---
 

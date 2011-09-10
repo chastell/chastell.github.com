@@ -1,6 +1,7 @@
 ---
 date: 2004-01-24 17:34:37 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: The right magic, part deux
 ---
 

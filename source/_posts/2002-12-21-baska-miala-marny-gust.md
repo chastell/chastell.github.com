@@ -1,6 +1,7 @@
 ---
 date: 2002-12-21 01:24:14 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Baśka miała marny gust
 ---
 

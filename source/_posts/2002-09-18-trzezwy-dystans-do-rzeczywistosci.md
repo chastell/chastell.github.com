@@ -1,6 +1,7 @@
 ---
 date: 2002-09-18 02:12:55 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Jak zachować trzeźwy dystans do rzeczywistości – samouczek
 ---
 

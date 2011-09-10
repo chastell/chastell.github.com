@@ -1,6 +1,7 @@
 ---
 date: 2007-07-28 15:22:14 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Łódź moim miastem, gdzie mnie nie zdziwi nic już
 ---
 

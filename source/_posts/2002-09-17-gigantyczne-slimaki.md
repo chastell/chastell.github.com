@@ -1,6 +1,7 @@
 ---
 date: 2002-09-17 02:10:29 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Gigantyczne ślimaki zajmą miejsce ludzi
 ---
 

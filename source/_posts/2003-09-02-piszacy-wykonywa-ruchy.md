@@ -1,6 +1,7 @@
 ---
 date: 2003-09-02 02:08:58 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Piszący wykonywa ruchy, odstępy uskutecznia motor
 ---
 

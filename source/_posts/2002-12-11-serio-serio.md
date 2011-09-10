@@ -1,6 +1,7 @@
 ---
 date: 2002-12-11 01:13:58 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Serio-serio
 ---
 

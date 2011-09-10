@@ -1,6 +1,7 @@
 ---
 date: 2003-01-12 23:42:14 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Geeky stuff
 ---
 

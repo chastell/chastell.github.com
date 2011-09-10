@@ -1,6 +1,7 @@
 ---
 date: 2002-08-04 19:30:13 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Make ’em dry
 ---
 

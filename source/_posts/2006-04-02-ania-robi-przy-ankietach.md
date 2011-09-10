@@ -1,6 +1,7 @@
 ---
 date: 2006-04-02 13:54:44 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Ania robi przy ankietach
 ---
 

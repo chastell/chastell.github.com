@@ -1,6 +1,7 @@
 ---
 date: 2003-01-25 12:43:13 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Zero i dwie dwójki – to mój kierunkowy (fristajl – takie teksty zapodawać „z głowy”)
 ---
 

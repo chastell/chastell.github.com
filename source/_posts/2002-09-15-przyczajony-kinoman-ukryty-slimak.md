@@ -1,6 +1,7 @@
 ---
 date: 2002-09-15 21:33:56 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Przyczajony kinoman, ukryty ślimak
 ---
 

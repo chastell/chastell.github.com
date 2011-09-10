@@ -1,6 +1,7 @@
 ---
 date: 2002-12-31 00:03:40 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Awaria Myszki
 ---
 

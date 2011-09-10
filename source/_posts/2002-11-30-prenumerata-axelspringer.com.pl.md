@@ -1,6 +1,7 @@
 ---
 date: 2002-11-30 00:09:58 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: prenumerata@axelspringer.com.pl
 ---
 

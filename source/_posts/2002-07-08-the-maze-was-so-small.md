@@ -1,6 +1,7 @@
 ---
 date: 2002-07-08 00:07:57 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: The maze was so small that people got lost looking for it
 ---
 

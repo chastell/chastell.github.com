@@ -1,6 +1,7 @@
 ---
 date: 2003-02-23 00:25:11 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Jak wystraszyć dmr-a – samouczek
 ---
 

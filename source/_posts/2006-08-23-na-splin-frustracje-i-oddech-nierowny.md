@@ -1,6 +1,7 @@
 ---
 date: 2006-08-23 22:46:17 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Na splin, frustrację i oddech nierówny
 ---
 

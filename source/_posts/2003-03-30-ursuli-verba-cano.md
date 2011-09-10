@@ -1,6 +1,7 @@
 ---
 date: 2003-03-30 00:19:35 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Ursuli verba cano!
 ---
 

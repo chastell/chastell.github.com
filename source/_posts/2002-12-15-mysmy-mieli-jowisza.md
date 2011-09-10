@@ -1,6 +1,7 @@
 ---
 date: 2002-12-15 12:47:45 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Myśmy mieli Jowisza
 ---
 

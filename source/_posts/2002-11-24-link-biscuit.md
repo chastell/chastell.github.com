@@ -1,6 +1,7 @@
 ---
 date: 2002-11-24 00:51:59 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Link Biscuit
 ---
 

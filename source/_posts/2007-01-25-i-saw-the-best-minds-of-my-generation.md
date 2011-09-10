@@ -1,6 +1,7 @@
 ---
 date: 2007-01-25 23:00:30 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: I saw the best minds of my generation destroyed by madness, starving hysterical naked
 ---
 

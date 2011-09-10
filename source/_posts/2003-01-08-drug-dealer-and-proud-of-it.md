@@ -1,6 +1,7 @@
 ---
 date: 2003-01-08 00:31:21 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Drug dealer, and proud of it
 ---
 

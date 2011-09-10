@@ -1,6 +1,7 @@
 ---
 date: 2002-06-15 23:43:01 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: „Noblesse” obliżę
 ---
 

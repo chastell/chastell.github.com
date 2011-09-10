@@ -1,6 +1,7 @@
 ---
 date: 2003-09-30 10:36:09 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Podpuścił mnie, skubany
 ---
 

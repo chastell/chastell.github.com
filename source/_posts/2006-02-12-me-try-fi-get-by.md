@@ -1,6 +1,7 @@
 ---
 date: 2006-02-12 21:18:19 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Me try φ get by
 ---
 

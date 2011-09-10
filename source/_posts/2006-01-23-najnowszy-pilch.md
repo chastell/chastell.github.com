@@ -1,6 +1,7 @@
 ---
 date: 2006-01-23 23:49:46 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Najnowszy Pilch
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2004-11-10 03:43:12 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Termin „mat” pochodzi od arabskiego zwrotu ash-shaykh mat, który znaczy „szejk został zabity”
 ---
 

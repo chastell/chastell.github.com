@@ -1,6 +1,7 @@
 ---
 date: 2004-11-30 21:19:23 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Papierowi weterani
 ---
 

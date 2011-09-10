@@ -1,6 +1,7 @@
 ---
 date: 2003-01-29 02:01:02 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Robaczki, etc.
 ---
 

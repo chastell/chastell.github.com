@@ -1,6 +1,7 @@
 ---
 date: 2002-10-09 00:14:12 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Mordor, revisited
 ---
 

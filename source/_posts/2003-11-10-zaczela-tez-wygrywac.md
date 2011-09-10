@@ -1,6 +1,7 @@
 ---
 date: 2003-11-10 21:46:19 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Zaczęła też wygrywać ze mną w piłkarzyki
 ---
 

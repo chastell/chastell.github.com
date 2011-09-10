@@ -1,6 +1,7 @@
 ---
 date: 2003-08-02 23:55:58 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Nocna zmiana rusza
 ---
 

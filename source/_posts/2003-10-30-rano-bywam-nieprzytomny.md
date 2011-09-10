@@ -1,6 +1,7 @@
 ---
 date: 2003-10-30 11:20:20 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Rano bywam nieprzytomny
 ---
 

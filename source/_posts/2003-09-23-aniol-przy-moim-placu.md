@@ -1,6 +1,7 @@
 ---
 date: 2003-09-23 20:24:12 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Anioł przy moim placu
 ---
 

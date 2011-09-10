@@ -1,6 +1,7 @@
 ---
 date: 2007-07-12 16:47:33 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Szybka piłka
 ---
 

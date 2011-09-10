@@ -1,6 +1,7 @@
 ---
 date: 2007-05-12 15:28:13 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Ten dzień przywitał nas ulewą
 ---
 

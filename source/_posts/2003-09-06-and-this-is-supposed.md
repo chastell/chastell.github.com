@@ -1,6 +1,7 @@
 ---
 date: 2003-09-06 16:28:22 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: And this is supposed to be a good thing
 ---
 

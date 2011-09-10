@@ -1,6 +1,7 @@
 ---
 date: 2006-12-03 21:49:35 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Pan kotek był skory (i leżał w łóżeczku)
 ---
 

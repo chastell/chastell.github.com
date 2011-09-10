@@ -1,6 +1,7 @@
 ---
 date: 2007-05-28 20:50:05 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Sic transit gloria Monday
 ---
 

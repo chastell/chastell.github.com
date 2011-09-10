@@ -1,6 +1,7 @@
 ---
 date: 2002-12-24 13:01:56 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Hannibal Leicecter
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2007-12-13 22:48:33 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Siedzimy we trójkę z Welshem i Powellem i kolorujemy sobie grafy
 ---
 

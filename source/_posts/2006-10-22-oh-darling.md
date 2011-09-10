@@ -1,6 +1,7 @@
 ---
 date: 2006-10-22 14:43:24 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Oh, darling, I guess my mind’s more at ease
 ---
 

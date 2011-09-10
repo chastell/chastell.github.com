@@ -1,6 +1,7 @@
 ---
 date: 2003-08-13 22:40:39 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Aż dziw bierze, że nie wzorują się na zagranicznych
 ---
 

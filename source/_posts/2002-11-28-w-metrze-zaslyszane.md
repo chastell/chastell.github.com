@@ -1,6 +1,7 @@
 ---
 date: 2002-11-28 01:16:37 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: W metrze zasłyszane
 ---
 

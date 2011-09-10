@@ -1,6 +1,7 @@
 ---
 date: 2003-08-07 08:08:33 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Nie wiem, czy docenią, że na Slacka
 ---
 

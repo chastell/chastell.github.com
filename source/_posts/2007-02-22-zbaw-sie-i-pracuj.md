@@ -1,6 +1,7 @@
 ---
 date: 2007-02-22 14:59:53 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Zbaw się i pracuj
 ---
 

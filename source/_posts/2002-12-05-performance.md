@@ -1,6 +1,7 @@
 ---
 date: 2002-12-05 01:31:44 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Performance
 ---
 

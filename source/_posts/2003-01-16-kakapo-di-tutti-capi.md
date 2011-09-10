@@ -1,6 +1,7 @@
 ---
 date: 2003-01-16 23:19:44 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Kakapo di tutti capi
 ---
 

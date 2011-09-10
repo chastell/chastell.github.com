@@ -1,6 +1,7 @@
 ---
 date: 2002-09-24 03:27:47 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: To będzie inny „Top Secret”
 ---
 

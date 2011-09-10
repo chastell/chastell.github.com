@@ -1,6 +1,7 @@
 ---
 date: 2006-06-30 00:33:39 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: chciałbym mieć Cię całą dla siebie i nigdzie się nie spieszyć
 ---
 

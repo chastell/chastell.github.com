@@ -1,6 +1,7 @@
 ---
 date: 2005-01-04 22:39:46 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Kazik, na żywo
 ---
 

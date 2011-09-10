@@ -1,6 +1,7 @@
 ---
 date: 2004-05-28 15:19:02 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Przecież sam bym tego nie wymyślił
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2006-10-25 20:41:15 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Drunk on illusions of grandeur and godhood
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2002-09-21 00:28:49 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Ego-surfing across the Big Pond
 ---
 

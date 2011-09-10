@@ -1,6 +1,7 @@
 ---
 date: 2006-10-14 15:30:52 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Smoother words, nicer suits – don’t be fooled, they’re still wearing jackboots
 ---
 

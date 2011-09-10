@@ -1,6 +1,7 @@
 ---
 date: 2005-06-03 08:46:03 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Clash boom bang
 ---
 

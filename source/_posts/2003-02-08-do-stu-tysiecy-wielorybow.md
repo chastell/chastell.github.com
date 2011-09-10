@@ -1,6 +1,7 @@
 ---
 date: 2003-02-08 11:10:36 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Do stu tysięcy wielorybów…
 ---
 

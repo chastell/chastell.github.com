@@ -1,6 +1,7 @@
 ---
 date: 2006-08-01 16:38:58 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Ja preferuję relaks w rytmie roots-reggae-ragga (to w dobie chaosu idealna przeciwwaga)
 ---
 

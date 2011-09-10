@@ -1,6 +1,7 @@
 ---
 date: 2004-02-02 00:49:12 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Scrabble made me do it
 ---
 

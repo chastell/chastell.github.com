@@ -1,6 +1,7 @@
 ---
 date: 2003-01-27 21:02:35 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Zważono 61 chomików – ich masy ciała były nieco prawoskośne
 ---
 

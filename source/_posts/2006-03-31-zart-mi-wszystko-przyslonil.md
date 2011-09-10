@@ -1,6 +1,7 @@
 ---
 date: 2006-03-31 13:43:26 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: 'ale, teraz się rozbrajająco uśmiecham, i się zastanawiam – w co wierzysz, bo [żart] mi wszystko przysłonił'
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2003-09-21 00:52:37 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: The ultimate geek editor
 ---
 

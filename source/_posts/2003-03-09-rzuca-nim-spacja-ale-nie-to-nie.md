@@ -1,6 +1,7 @@
 ---
 date: 2003-03-09 18:51:46 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Rzuca nim spacja, ale nie to nie
 ---
 

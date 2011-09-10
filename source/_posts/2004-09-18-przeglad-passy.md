@@ -1,6 +1,7 @@
 ---
 date: 2004-09-18 09:56:51 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Przegląd passy
 ---
 

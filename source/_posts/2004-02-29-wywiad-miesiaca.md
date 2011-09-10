@@ -1,6 +1,7 @@
 ---
 date: 2004-02-29 01:02:24 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Wywiad miesiąca
 ---
 

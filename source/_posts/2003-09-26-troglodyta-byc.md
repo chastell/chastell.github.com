@@ -1,6 +1,7 @@
 ---
 date: 2003-09-26 15:41:09 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Troglodytą być
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2003-01-11 23:54:06 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Instynkt macierzyński
 ---
 

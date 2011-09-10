@@ -1,6 +1,7 @@
 ---
 date: 2002-06-09 23:23:11 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Plomba – bomba
 ---
 

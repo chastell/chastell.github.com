@@ -1,6 +1,7 @@
 ---
 date: 2002-07-29 12:05:56 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Don’t Panic!
 ---
 

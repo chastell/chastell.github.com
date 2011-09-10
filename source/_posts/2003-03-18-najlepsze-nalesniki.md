@@ -1,6 +1,7 @@
 ---
 date: 2003-03-18 00:41:24 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Najlepsze naleśniki są na placu Zbawiciela
 ---
 

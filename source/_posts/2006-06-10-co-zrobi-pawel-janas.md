@@ -1,6 +1,7 @@
 ---
 date: 2006-06-10 03:41:29 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: (Co zrobi Paweł Janas gdy jego drużyna wygra mistrzostwa?)
 ---
 

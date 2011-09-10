@@ -1,6 +1,7 @@
 ---
 date: 2002-05-03 02:40:29 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Spirytus własnej produkcji
 ---
 

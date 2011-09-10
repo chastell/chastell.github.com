@@ -1,6 +1,7 @@
 ---
 date: 2003-06-20 14:49:49 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Apokalipsa jednego autora
 ---
 

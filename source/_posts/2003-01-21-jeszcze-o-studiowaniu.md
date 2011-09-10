@@ -1,6 +1,7 @@
 ---
 date: 2003-01-21 09:23:11 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Jeszcze o studiowaniu
 ---
 

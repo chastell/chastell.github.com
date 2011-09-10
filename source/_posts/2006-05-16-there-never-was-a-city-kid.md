@@ -1,6 +1,7 @@
 ---
 date: 2006-05-16 19:30:09 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: There never was a city kid truer and bluer
 ---
 

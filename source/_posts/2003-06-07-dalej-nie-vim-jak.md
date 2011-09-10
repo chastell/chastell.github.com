@@ -1,6 +1,7 @@
 ---
 date: 2003-06-07 20:55:30 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Dalej nie vim jak
 ---
 

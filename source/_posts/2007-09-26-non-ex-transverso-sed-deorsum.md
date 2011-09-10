@@ -1,6 +1,7 @@
 ---
 date: 2007-09-26 01:54:13 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Non ex transverso sed deorsum
 ---
 

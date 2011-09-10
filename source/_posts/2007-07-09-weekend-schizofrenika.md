@@ -1,6 +1,7 @@
 ---
 date: 2007-07-09 10:04:14 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Weekend schizofrenika
 ---
 

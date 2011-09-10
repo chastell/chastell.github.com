@@ -1,6 +1,7 @@
 ---
 date: 2003-06-03 01:37:57 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Der Überbenutzer
 ---
 

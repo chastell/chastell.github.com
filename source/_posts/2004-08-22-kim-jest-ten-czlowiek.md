@@ -1,6 +1,7 @@
 ---
 date: 2004-08-22 19:09:54 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Kim jest ten człowiek, który ciągle za mną idzie?
 ---
 

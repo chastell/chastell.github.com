@@ -1,6 +1,7 @@
 ---
 date: 2004-05-10 20:42:13 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Protected by Rome herself
 ---
 

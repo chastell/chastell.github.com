@@ -1,6 +1,7 @@
 ---
 date: 2038-01-19 04:14:07 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Stürmisch ziehen Wolken bis zum Horizont
 ---
 

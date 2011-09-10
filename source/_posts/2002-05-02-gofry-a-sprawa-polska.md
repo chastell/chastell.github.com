@@ -1,6 +1,7 @@
 ---
 date: 2002-05-02 00:13:23 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Gofry a sprawa polska
 ---
 

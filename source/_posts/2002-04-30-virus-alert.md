@@ -1,6 +1,7 @@
 ---
 date: 2002-04-30 00:58:08 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Virus alert
 ---
 

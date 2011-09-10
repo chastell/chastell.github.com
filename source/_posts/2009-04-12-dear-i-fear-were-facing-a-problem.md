@@ -1,6 +1,7 @@
 ---
 date: 2009-04-12 17:33:29 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Dear, I fear we’re facing a problem
 ---
 

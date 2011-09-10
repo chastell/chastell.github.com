@@ -1,6 +1,7 @@
 ---
 date: 2006-07-08 09:35:12 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: opi uczy się o kwiatkach
 ---
 

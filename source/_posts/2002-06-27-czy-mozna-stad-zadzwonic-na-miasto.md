@@ -1,6 +1,7 @@
 ---
 date: 2002-06-27 01:40:08 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Czy można stąd zadzwonić na miasto?
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2006-03-24 00:07:53 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Czytaj, choć się nie zachłystuj
 ---
 

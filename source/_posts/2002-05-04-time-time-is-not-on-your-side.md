@@ -1,6 +1,7 @@
 ---
 date: 2002-05-04 23:59:33 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Time, time is not on your side…
 ---
 

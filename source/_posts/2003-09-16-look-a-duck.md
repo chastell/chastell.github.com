@@ -1,6 +1,7 @@
 ---
 date: 2003-09-16 23:11:12 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Look, a duck
 ---
 

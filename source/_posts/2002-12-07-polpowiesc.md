@@ -1,6 +1,7 @@
 ---
 date: 2002-12-07 09:41:30 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Półpowieść
 ---
 

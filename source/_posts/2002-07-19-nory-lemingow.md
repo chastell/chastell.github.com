@@ -1,6 +1,7 @@
 ---
 date: 2002-07-19 18:29:22 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Nory lemingów
 ---
 

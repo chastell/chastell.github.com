@@ -1,6 +1,7 @@
 ---
 date: 2005-06-04 11:40:18 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Send out the Bat Signal
 ---
 

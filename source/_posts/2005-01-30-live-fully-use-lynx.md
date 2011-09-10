@@ -1,6 +1,7 @@
 ---
 date: 2005-01-30 00:52:27 +0100
 layout: hovercraft
+tags: [en, hovercraft]
 title: Live fully, use lynx
 ---
 

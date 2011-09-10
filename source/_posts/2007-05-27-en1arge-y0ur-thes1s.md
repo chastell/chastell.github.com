@@ -1,6 +1,7 @@
 ---
 date: 2007-05-27 12:08:58 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: En1aRge Y0uR THeS1s! M4ke y0ur ADv1sor Happ1er!
 ---
 

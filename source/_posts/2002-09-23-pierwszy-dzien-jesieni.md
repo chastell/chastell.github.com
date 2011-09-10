@@ -1,6 +1,7 @@
 ---
 date: 2002-09-23 21:01:00 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Pierwszy dzień jesieni
 ---
 

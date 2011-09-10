@@ -1,6 +1,7 @@
 ---
 date: 2007-01-08 00:22:15 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Po eventach ich poznacie
 ---
 

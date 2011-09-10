@@ -1,6 +1,7 @@
 ---
 date: 2003-12-29 22:17:23 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: (Pewno już wszyscy czytali, i tylko ja taki zapóźniony jestem, ale może nie, to proszę bardzo.)
 ---
 

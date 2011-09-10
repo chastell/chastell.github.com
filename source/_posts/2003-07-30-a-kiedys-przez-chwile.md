@@ -1,6 +1,7 @@
 ---
 date: 2003-07-30 21:05:53 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: A kiedyś przez chwilę widziałem nawet Ostrego i Asha
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2002-05-13 02:25:04 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: Another one bites the dust
 ---
 

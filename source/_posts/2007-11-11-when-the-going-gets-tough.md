@@ -1,6 +1,7 @@
 ---
 date: 2007-11-11 21:08:04 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: When the going gets tough, the tough use print()
 ---
 

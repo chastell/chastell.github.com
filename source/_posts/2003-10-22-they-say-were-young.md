@@ -1,6 +1,7 @@
 ---
 date: 2003-10-22 01:58:10 +0200
 layout: hovercraft
+tags: [en, hovercraft]
 title: They say we’re young and we don’t know, we won’t find out until we grow
 ---
 

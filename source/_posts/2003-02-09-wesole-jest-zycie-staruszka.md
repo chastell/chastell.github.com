@@ -1,6 +1,7 @@
 ---
 date: 2003-02-09 02:45:35 +0100
 layout: wycinki
+tags: [pl, wycinki]
 title: Wesołe jest życie staruszka
 ---
 

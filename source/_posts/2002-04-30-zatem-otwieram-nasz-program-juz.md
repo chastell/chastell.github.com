@@ -1,6 +1,7 @@
 ---
 date: 2002-04-30 00:45:56 +0200
 layout: wycinki
+tags: [pl, wycinki]
 title: …zatem otwieram nasz program już
 ---
 

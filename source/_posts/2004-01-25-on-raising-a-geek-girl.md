@@ -1,6 +1,7 @@
 ---
 date: 2004-01-25 01:23:06 +0100
 layout: hovercraft
+tags: [en, hovercraft]
 title: On raising a geek-girl
 ---
 

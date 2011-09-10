@@ -1,6 +1,7 @@
 ---
 date: 2004-07-19 17:48:03 +0200
 layout: hovercraft
+tags: [en, hovercraft]
 title: When automatic localisations go bad
 ---
 
