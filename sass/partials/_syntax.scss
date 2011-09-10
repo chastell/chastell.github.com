@@ -85,6 +85,7 @@ h3.filename {
   + pre { @include border-top-radius(0px); }
 }
 
+dd > code,
 p code,
 li code {
   @extend .mono;
