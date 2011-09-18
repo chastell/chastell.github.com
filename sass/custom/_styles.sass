@@ -22,9 +22,8 @@ blockquote
   p:last-child
     text-align: right
 
-body > footer, body > header, nav[role=navigation] a
-  @extend .serif
-  font-family: 'IM Fell English SC', inherit
+body > footer, body > header, nav a
+  font-family: 'IM Fell English SC', inherit !important
   text-align: center
 
 body > header h1 a
@@ -87,10 +86,16 @@ time span
   a
     padding-left: 0.5em
 
+.heading
+  font-family: 'Ubuntu', sans-serif
+
 .hentry footer .meta
   text-align: right
   .author
     display: none
 
-#blog-archives h1
-  font-family: 'Ubuntu', inherit
+.sans
+  font-family: 'Ubuntu', sans-serif
+
+.serif
+  font-family: 'Ubuntu', serif
