@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>chastell.net</title>
+  <link href="http://chastell.net/index.xml" rel="self"/>
+  <link href="http://chastell.net/"/>
+  <updated>2011-09-29T07:13:31-05:00</updated>
+  <id>http://chastell.net/</id>
+  <author>
+    <name>Piotr Szotkowski</name>
+    <email>chastell@chastell.net</email>
+  </author>
+  <entry>
+    <title>Coming soon</title>
+    <link href="http://chastell.net/"/>
+    <updated>2011-09-29T07:13:31-05:00</updated>
+    <id>http://chastell.net/</id>
+    <content type="html">
+      &lt;p&gt;to a browser near you&lt;br /&gt;(most probably this one, actually)&lt;/p&gt;
+    </content>
+  </entry>
+</feed>
