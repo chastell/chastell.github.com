@@ -4,7 +4,7 @@ title: the eelful hovercraft
 footer: false
 ---
 
-<div id="blog-archives">
+<div id="blog-archives" class="category">
 {% for post in site.tags.hovercraft reverse %}
 {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 {% unless year == this_year %}
