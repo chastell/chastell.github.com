@@ -89,7 +89,7 @@ h3.filename {
   + pre { @include border-top-radius(0px); }
 }
 
-p, li {
+p, li, dd > {
   code {
     @extend .mono;
     display: inline-block;
