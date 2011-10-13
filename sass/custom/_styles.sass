@@ -23,7 +23,7 @@ blockquote
     text-align: right
 
 body > footer, body > header, nav a
-  font-family: 'IM Fell English SC', inherit !important
+  @extend .im-fell
   text-align: center
 
 body > header h1 a
@@ -69,7 +69,7 @@ time span
     text-shadow: none
 
 .chastell-net, .entry-title
-  font-family: 'IM Fell English SC', inherit
+  @extend .im-fell
 
 .cursor
   text-decoration: blink
@@ -93,6 +93,9 @@ time span
   text-align: right
   .author
     display: none
+
+.im-fell
+  font-family: 'IM Fell English SC', inherit !important
 
 .sans
   font-family: 'Ubuntu', sans-serif
